@@ -1,0 +1,1 @@
+This is python script to get outliners

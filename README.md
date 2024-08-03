@@ -25,7 +25,7 @@ Install these libraries using pip:
 bash
 pip install pandas numpy scipy
 
-## to run function use below command
+## To execute the python code use below command
 
 python outliers.py
 

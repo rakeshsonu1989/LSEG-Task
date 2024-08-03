@@ -1,6 +1,6 @@
 # Stock Price Outlier Detection
 
-# This function process all the xlsx file present in the STOCK_PRICE_DATA
+# This function process all the xlsx file present in the STOCK_DATA
 
 This project includes a Python script that performs the following tasks:
 1. **Extracts 30 consecutive data points** from a CSV file containing stock prices, starting from a random timestamp within the file.
@@ -25,6 +25,9 @@ Install these libraries using pip:
 bash
 pip install pandas numpy scipy
 
+## to run function use below command
+
+python outliers.py
 
 # Stock Price Outlier Detection with Docker
 

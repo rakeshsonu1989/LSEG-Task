@@ -125,5 +125,5 @@ def process_all_xlsx_files(directory):
     return results
 
 
-directory = 'D:/LSEG/STOCK_PRICE_DATA/'  # Set this to the directory containing your xlsx files
+directory = 'D:/LSEG/STOCK_DATA/'  # Set this to the directory containing your xlsx files
 all_results = process_all_xlsx_files(directory)

@@ -14,7 +14,7 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 # Copy the script and other necessary files into the container
 COPY outliers.py /app/
-COPY D:/LSEG/LSE/FLTRLSE.CSV /app/ 
+COPY D:/LSEG/STOCK_PRICE_DATA /app/ 
 
 # Set the default command to run the script
 CMD ["python", "outliers.py"]

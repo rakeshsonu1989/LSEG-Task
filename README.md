@@ -19,7 +19,7 @@ To run the script, you'll need the following Python libraries:
 pip install openpyxl
 
 
-# Install required libariries for runnign the function
+# Install required libraries for  the function
 Install these libraries using pip:
 
 bash
